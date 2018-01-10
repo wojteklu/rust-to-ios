@@ -1,5 +1,6 @@
-rust-to-ios
-================
+# rust-to-ios
+[![Swift 4.0](https://img.shields.io/badge/swift-4.0-orange.svg?style=flat)](#)
+[![@wojteklu](https://img.shields.io/badge/contact-@wojteklu-blue.svg?style=flat)](https://twitter.com/wojteklu)
 
 Example project for building a library for iOS.
 

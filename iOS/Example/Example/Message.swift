@@ -1,11 +1,3 @@
-//
-//  Message.swift
-//  Example
-//
-//  Created by Wojtek on 07/08/2017.
-//  Copyright © 2017 Wojtek. All rights reserved.
-//
-
 import Foundation
 
 class Message {
